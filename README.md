@@ -1,0 +1,1 @@
+This is a basic responsive webpage that portrays a simple pricing table using only HTML5 and CSS3 features. 
